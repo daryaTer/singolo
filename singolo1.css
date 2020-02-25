@@ -1,0 +1,66 @@
+body {
+  margin: auto auto;
+  width: 1020px;
+}
+.line {
+  height: 6px;
+  background-color: rgb(50, 55, 70);
+}
+.logo {
+  padding-top: 35px;
+  padding-left: 41px;
+  font-size: 19px;
+  color: white;
+  font-family: "Lato", "Verdana", sans-serif;
+}
+.header {
+  display: block;
+  height: 89px;
+  background-color: rgb(45, 48, 58);
+}
+li {
+  display: inline;
+  font-size: 9px;
+}
+
+a:hover {
+  color: rgb(240, 108, 100);
+}
+
+.nav {
+}
+.navigation a {
+  margin: auto 0 5px 30px;
+  color: white;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 20px;
+  display: inline-block;
+}
+.telephone {
+  height: 600px;
+  background-color: rgb(234, 103, 107);
+}
+.endline {
+  height: 6px;
+  background-color: rgb(255, 255, 255);
+}
+.services {
+  height: 494px;
+  background-color: rgb(242, 242, 242);
+}
+.our-ser {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(102, 109, 137);
+  padding-top: 67px;
+  padding-left: 40px;
+}
+.description {
+  color: rgb(118, 126, 158);
+  padding-left: 41px;
+  padding-top: 33px;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
